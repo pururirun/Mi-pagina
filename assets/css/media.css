@@ -1,0 +1,26 @@
+@media (min-width: 200px) and (max-width: 534px){
+  [class*="col-"]{
+    width: 100%;
+  }
+
+  .header{
+    display: none;
+  }
+
+  .headerTwo{
+    display: block;
+  }
+
+  .headerTwo h1{
+    font-size: 20px;
+  }
+
+  .icono{
+    padding-left: 18em;
+    margin-top: -2.7em;
+  }
+
+  .image h1{
+    font-size: 500%;
+  }
+}
